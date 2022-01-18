@@ -2,6 +2,256 @@
   text-align: center;
 }
 
+
+#email{
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+#filterOrders{
+  width: 30px;
+}
+
+#nevBar{
+  padding-top: 20px;  
+}
+
+#searchHotel{
+  width: 300px;
+  margin-left:38%;  
+  margin-bottom: 50px;  
+}
+
+#emailInput{
+  
+  margin-left: 58px;
+  margin-bottom: 20px;
+}
+
+.filedInput{
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+
+#newUserTitle{
+  margin-left: 60px;
+  margin-bottom: 20px;
+  color: blue;
+}
+
+#searchDiv{
+  display: flex  !important;
+  flex-direction: row !important;
+}
+
+#validLogin{
+  color: red;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+#validError{
+  color: red;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+#loginTitle{
+  margin-left: 60px;
+  margin-bottom: 20px;
+  color: blue;
+}
+
+#newUserButton{
+  margin-left: 60px;
+}
+
+#errmsg{
+  color: red;
+}
+
+#buttonHistory{
+  margin-right: 1000px;
+}
+
+#buttonNewUser{
+  margin-left: 80px;
+  margin-top: 10px;
+}
+
+#buttonLigin{
+  margin-left: 60px;
+  margin-top: 10px;
+}
+
+#password{
+  margin-bottom: 0px;
+}
+
+.SearchFileds{
+  margin-left: 50px;
+}
+
+#stars{
+  width: 40px;
+}
+
+.filterFiled{
+  margin-top: 20px;
+}
+
+.filterFiledButton{
+  margin-top: 20px;
+  border-radius: 35px !important;
+  background-color: blue;
+  border: 2px solid;
+  color: azure;
+}
+
+#checkIn{
+  margin-top: 28px;
+  margin-left: 28px;
+  width: 200px;
+}
+
+#checkOut{
+  margin-top: 28px;
+  margin-bottom: 28px;
+  margin-left: 16px;
+  width: 200px;
+}
+
+#searchButton{
+  margin-left: 50px;
+}
+
+#orderHotel{
+  margin-left: 50px;
+  margin-top: 50px;
+  height: 50px;
+  width: 300px;
+}
+
+#backToSearch{
+  margin-right: 1000px;
+ 
+}
+
+#roomsList{
+  padding-top: "40px";
+  margin-left: "20px";
+}
+
+.carousel-control-prev-icon{
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23475ae2' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+  width: 77px !important;
+  height: 77px !important;
+}
+
+.carousel-control-next-icon{
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23475ae2' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+  width: 77px !important;
+  height: 77px !important;
+}
+
+#description{
+  border-style: solid;
+  border-color: blue;
+}
+
+#roomsType{
+  padding-right: 50px;
+
+}
+
+#buttonOrderHotel{
+  margin-top: 30px;
+}
+
+#finalOrderTitle{
+  color: blue;
+}
+
+#buttonBackHomePage{
+  margin-right: 1000px;
+}
+
+#finalOrderDiv{
+  border: 2px solid blue;
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 30px;
+  padding-bottom: 10px;
+}
+
+#hotelFeaturesTitle{
+  padding-top: 30px;
+}
+
+#totalPrice{
+  color: black;
+}
+
+#buttonOrder{
+  margin-bottom: 20px;
+}
+
+#buttonRoom{
+  margin-right: 50px;
+  border: 2px solid black;
+  border-radius: 35px !important;
+  background-color: royalblue;
+  color: azure;
+}
+
+#titleSelectRooms{
+  padding-right: 50px;
+  margin-left: 50px;
+  border: 1px solid black;
+}
+
+#titleRoomType{
+  padding-right: 80px;
+  border: 1px solid black;
+}
+
+#NumbersRoomChosen{
+  padding-right: 20px;
+  border: 1px solid black;
+}
+
+#tableRooms{
+  margin-left: 20%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+}
+
+#rowTableRoom{
+  border: 1px solid black;
+
+}
+
+#tableTitle {
+  border-style: solid;
+  border: 1px solid black;
+  background-color: royalblue;
+  color: azure;
+}
+
+#searchHistory{
+  width: 500px;
+  padding-left: 30px;
+  margin-left: 400px;
+  border-color: blue;
+  border-style: solid;
+}
+
+
+.modal-image{
+ padding-left: 10px; 
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
